@@ -33,16 +33,16 @@ textarea{
 }
 .head h1{
     text-align: center;
+    /* background-color: var(--primary-color);; */
 }
+
 #btn-translate{
-    background-color:var(--primary-color);; 
-    height: 8vh;
+    border: 1px solid var(--primary-color);
+    background-color: var(--primary-color);
+    height: 9vh;
     width: 30vh;
-    border: 1px solid var(--primary-color);;
-    margin-left:19rem;
-    margin-right: 4rem;
+    margin-left: 19rem;
     margin-top: 2rem;
-    font-family: 'Lobster', cursive;
 }
 
 .translate{
