@@ -11,6 +11,7 @@ textarea{
     height: 15vh;
     margin: 1rem;
     margin-left:4rem;
+    margin-top: 2rem;
 }
 #output{
     border: 1px solid black;
@@ -41,3 +42,28 @@ textarea{
     margin-right: 4rem;
 
 }
+
+/* .footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+    margin-top: 1rem
+}
+.footer.footer-header{
+    font-weight:bold;
+    font-size: large;
+    padding: 1rem;
+}
+.footer .link {
+    list-style: none;
+    display:inline;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
+.foot{
+    text-align: center;
+} */
