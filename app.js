@@ -5,7 +5,7 @@ var outputDiv=document.querySelector("#output")
 // outputDiv.innerText="Ankita is awsome"
 
 // var serverUrl="https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
-var serverURL="https://api.funtranslations.com/translate/minion.json";
+var serverURL="https://api.funtranslations.com/translate/minion";
 function getTranslationURL(text){
     return   serverURL + "?" +"text=" + text;
 }
