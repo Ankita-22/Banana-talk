@@ -47,6 +47,9 @@ button{
     font-family: 'Lobster', cursive;
     font-size: large;
 }
+button:hover{
+    color: whitesmoke;
+}
 
 .translate{
     margin-left: 19rem;
